@@ -68,7 +68,7 @@ function generateMarkdown(data) {
   
   ## Usage
   
-  use ​${data.repo} to pull down the repo 
+   ​${data.repo} to pull down the repo 
   ​
   ## License
   ${data.license}
@@ -82,7 +82,7 @@ function generateMarkdown(data) {
   ## Tests
   ​
   To run tests, run the following command:
-${data.test}
+  ${data.tests}
   ​
   ## Questions
   ​

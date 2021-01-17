@@ -3,7 +3,7 @@
   ​
   ## Description
   ​
-  This project allows users to generate readme files for their application. It uses Node.js
+  This project allows users to generate readme files for their application. It uses Node.js. 
   ​
   ## Table of Contents 
   

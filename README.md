@@ -27,21 +27,21 @@
   
   ## Usage
   
-  use ​use terminal to run to pull down the repo 
+   ​Open the terminal to start the application. Run "node index.js" to begin.  to pull down the repo 
   ​
   ## License
   MIT
   ​
-  This project is licensed under this license.
+ 
     
   ## Contributing
-  ​you cant
+  ​You cannot contribute to the repo. 
  
   ​
   ## Tests
   ​
   To run tests, run the following command:
-undefined
+  undefined
   ​
   ## Questions
   ​
