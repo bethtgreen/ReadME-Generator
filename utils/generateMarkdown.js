@@ -8,6 +8,11 @@ let choose = "";
      }
      if (license === "MIT") {
          choose = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]"
+         return choose
+     }
+     if (license === "NONE"){
+         choose = ""
+         return choose
      }
 }
 
@@ -21,10 +26,11 @@ function renderLicenseLink(license) {
    } if (license === "MIT"){
     choose = "(https://opensource.org/licenses/MIT)"
     return choose
-} } if (license === "NONE"){
+} if (license === "NONE"){
     choose = ""
     return choose
 }
+} 
    
 
 // TODO: Create a function that returns the license section of README

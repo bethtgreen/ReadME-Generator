@@ -3,7 +3,7 @@
   ​
   ## Description
   ​
-  This project allows users to generate readme files for their application. It uses Node.js
+ This is a project that allows the user to generate a solid ReadMe.md file. It uses node.js. 
   ​
   ## Table of Contents 
   
@@ -27,7 +27,7 @@
   
   ## Usage
   
-   ​Open the terminal to start the application. Run "node index.js" to begin.  to pull down the repo 
+   ​You must open terminal and run "node index.js". Then fill out the questions.  to pull down the repo 
   ​
   ## License
   MIT
@@ -41,7 +41,7 @@
   ## Tests
   ​
   To run tests, run the following command:
-  undefined
+  npm tests
   ​
   ## Questions
   ​

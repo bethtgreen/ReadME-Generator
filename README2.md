@@ -38,3 +38,6 @@
   ​
   If you have any questions about the repo, open an issue or contact me directly at b.gree10@gmail.com. You can find more of my work at [bethtgreen](https://github.com/bethtgreen/).
   
+  
+
+ [Watch this video to see the application in use!](https://drive.google.com/file/d/1hZuCdqw4rF1ZSNjMYIdtByA834CaroFH/view)
