@@ -3,12 +3,10 @@
   ​
   ## Description
   ​
-  This project allows users to generate readme files for their application. It uses Node.js. 
+  This project allows users to generate readme files for their application. It uses Node.js. ReadMe's are very important so that the user has access to clear directions on how to run the app, and who to contact if they have any questions regarding the application. 
   ​
   ## Table of Contents 
   
-  * [Installation](#installation)
-  ​
   * [Usage](#usage)
   ​
   * [License](#license)
@@ -19,13 +17,6 @@
   ​
   * [Questions](#questions)
   ​
-  ## Installation
-  ​
-  To install necessary dependencies, run the following command:
-  ​
-  ​
-  npm i install
-
   ## Usage
   ​
   use git clone to pull down the repo 
