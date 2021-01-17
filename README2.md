@@ -21,27 +21,27 @@
   ​
   ## Installation
   ​
-  To install necessary dependencies, run the following command: 
-  
-  ​npm install
-  
+  To install necessary dependencies, run the following command:
+  ​
+  ​
+  npm i install
+
   ## Usage
-  
-  use ​use terminal to run to pull down the repo 
+  ​
+  use git clone to pull down the repo 
   ​
   ## License
-  MIT
   ​
-  This project is licensed under this license.
+  This project is licensed under the MIT license.
     
   ## Contributing
-  ​you cant
- 
+  ​
+  users cannot contribute to this repo
   ​
   ## Tests
   ​
   To run tests, run the following command:
-undefined
+
   ​
   ## Questions
   ​

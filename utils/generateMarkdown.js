@@ -62,32 +62,31 @@ function generateMarkdown(data) {
   ​
   ## Installation
   ​
-  To install necessary dependencies, run the following command:
-  ​
-  ​
-  ${data.command}
-
+  To install necessary dependencies, run the following command: 
+  
+  ​${data.command}
+  
   ## Usage
-  ​
-  use git clone to pull down the repo 
+  
+  use ​${data.repo} to pull down the repo 
   ​
   ## License
+  ${data.license}
   ​
-  This project is licensed under the MIT license.
+ 
     
   ## Contributing
-  ​
-  users cannot contribute to this repo
+  ​${data.contribute}
+ 
   ​
   ## Tests
   ​
   To run tests, run the following command:
-
+${data.test}
   ​
   ## Questions
   ​
-  If you have any questions about the repo, open an issue or contact me directly at drosenbaum5@gmail.com. You can find more of my work at [drosenbaum5](https://github.com/drosenbaum5/)
-  .
+  If you have any questions about the repo, open an issue or contact me directly at b.gree10@gmail.com. You can find more of my work at [bethtgreen](https://github.com/bethtgreen/).
   `;
 };
 

@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-// const { generate } = require("rxjs");
+
 
 // to-do: create an array of questions for user input
 const questions = [
@@ -34,7 +34,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "What commands hould be run to install dependencies?",
+    message: "What command should be run to install dependencies?",
     name: "command",
   },
   {
