@@ -21,9 +21,12 @@ function renderLicenseLink(license) {
    } if (license === "MIT"){
     choose = "(https://opensource.org/licenses/MIT)"
     return choose
+} } if (license === "NONE"){
+    choose = ""
+    return choose
 }
    
-}
+
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
@@ -44,7 +47,7 @@ function generateMarkdown(data) {
   ​
   ## Description
   ​
-  This project allows users to generate readme files for their application. It uses Node.js
+ This is a project that allows the user to generate a solid ReadMe.md file. It uses node.js. 
   ​
   ## Table of Contents 
   
